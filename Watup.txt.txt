@@ -12,3 +12,7 @@ Author: Arulprasath
 4. Attachments,(Image, Audio, video) code
 
 5. Hiding the last Seen
+
+6. add video
+
+7. add audio
